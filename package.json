@@ -1,0 +1,26 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "mi primer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJB-ARG/testapp.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Norber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NJB-ARG/testapp/issues"
+  },
+  "homepage": "https://github.com/NJB-ARG/testapp#readme",
+  "dependencies": {
+    "math": "0.0.3",
+    "express": "4.17.1"
+  }
+}
